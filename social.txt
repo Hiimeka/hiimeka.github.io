@@ -1,0 +1,3 @@
+Base 64 ENC
+[ Destination Character set : ASCII - Destination newline separator : LF ( UNIX ) ]
+RmFjZWJvb2sgIDogRmlybWFuIEFndXMgU3VnaWhhcnRvbm8KSW5zdGFncmFtIDogQGZpcm1hbmFndXNwd25lZF8KVHdpdHRlciAgIDogQEZ5YW1hdGVoCkVtYWlsICAgICA6IGZpcm1hbi5hZ3oxMzM3QGdtYWlsLmNvbQ==
