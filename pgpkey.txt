@@ -1,7 +1,0 @@
-Personal Data 
-
-  Name     : Firman Agus Sugihartono
-  Address  : Dk. Bumen Asri Plantaran, Kaliwungu Selatan, Kendal
-  Gender   : Male
-  Graduate : SMK Harapan Mulya Brangsong, KENDAL
-  Skill    : Open Source Intelegence [ OSINT ] - Hacking - Forensics - Geospatial intelligence [ GEOINT ]
